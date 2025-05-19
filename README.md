@@ -42,4 +42,4 @@ To run Yummy locally on your machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/yummy.git
+   git clone https://github.com/A7metAlaa/Yummy.git
